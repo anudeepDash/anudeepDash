@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anudeepDash
 - 👀 I’m interested in technology and AI 
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning java, C, C++, python
 - 💞️ I’m looking to collaborate on my future projects
  
 
